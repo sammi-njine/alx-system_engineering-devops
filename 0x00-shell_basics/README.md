@@ -5,3 +5,4 @@ Script 3 displays current directory contents in a long format
 Script 4 displays current directory contents including hidden files. Long format is used
 Script 5 displays current directory long format with user and group IDs displayed numerically
 Script 6 creates a directory in /tmp
+Script 7 moves a file

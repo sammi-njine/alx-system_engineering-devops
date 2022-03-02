@@ -4,3 +4,4 @@ Script 2 changes the working directory to the home directory. But cd doesn't wor
 Script 3 displays current directory contents in a long format
 Script 4 displays current directory contents including hidden files. Long format is used
 Script 5 displays current directory long format with user and group IDs displayed numerically
+Script 6 creates a directory in /tmp

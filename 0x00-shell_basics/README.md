@@ -7,3 +7,4 @@ Script 5 displays current directory long format with user and group IDs displaye
 Script 6 creates a directory in /tmp
 Script 7 moves a file
 Script 8 deletes a file
+Script 9 deletes a directory

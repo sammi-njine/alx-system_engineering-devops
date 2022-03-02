@@ -11,3 +11,4 @@ Script 9 deletes a directory
 Script 10 changes the working directory to the previous one
 Script 11 lists all files in multiple directories at once
 Script 12 print file type
+Script 13 creates a symbolic link in the current working directory

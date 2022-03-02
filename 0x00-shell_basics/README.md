@@ -9,3 +9,4 @@ Script 7 moves a file
 Script 8 deletes a file
 Script 9 deletes a directory
 Script 10 changes the working directory to the previous one
+Script 11 lists all files in multiple directories at once

@@ -4,3 +4,4 @@ Script 2 prints all the groups the current user is part of
 Script 3 changes the owner of the file hello to the user betty
 Script 4 creates and empty file
 Script 5 adds execute permission to the owner of a file
+Script 6 adds execute permission to the owner and the group owner, and read permission to the other users for a file

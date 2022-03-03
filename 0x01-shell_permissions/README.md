@@ -6,3 +6,4 @@ Script 4 creates and empty file
 Script 5 adds execute permission to the owner of a file
 Script 6 adds execute permission to the owner and the group owner, and read permission to the other users for a file
 Script 7 adds execution permission to the owner, the group owner and the other users to the file
+Script 8 sets permissions for owner and group to --- and grants other users full permissions

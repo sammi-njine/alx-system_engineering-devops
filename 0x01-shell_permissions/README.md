@@ -11,3 +11,4 @@ Script 9 sets mode of a file to rwxr-x-wx
 Script 10 sets mode of a file to what are the current permissions for another file
 Script 11 adds execute permissions to all subdirectories of the current directory for the owner, the group owner and all other users without changing regular files
 Script 12 created a directory and assigns it permissions in the same command
+Script 13 changes the group owner of a file

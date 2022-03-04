@@ -8,3 +8,4 @@ Script 6 adds execute permission to the owner and the group owner, and read perm
 Script 7 adds execution permission to the owner, the group owner and the other users to the file
 Script 8 sets permissions for owner and group to --- and grants other users full permissions
 Script 9 sets mode of a file to rwxr-x-wx
+Script 10 sets mode of a file to what are the current permissions for another file

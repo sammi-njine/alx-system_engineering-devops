@@ -9,3 +9,4 @@ Script 7 adds execution permission to the owner, the group owner and the other u
 Script 8 sets permissions for owner and group to --- and grants other users full permissions
 Script 9 sets mode of a file to rwxr-x-wx
 Script 10 sets mode of a file to what are the current permissions for another file
+Script 11 adds execute permissions to all subdirectories of the current directory for the owner, the group owner and all other users without changing regular files

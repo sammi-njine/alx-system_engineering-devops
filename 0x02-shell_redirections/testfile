@@ -1,0 +1,3 @@
+{tail +9 README.md}
+Task 8 is on writing into a file the output of a command. The file will be overwritten if it exists and created if it doesn't exist
+Task 8 is on writing into a file the output of a command. The file will be overwritten if it exists and created if it doesn't exist

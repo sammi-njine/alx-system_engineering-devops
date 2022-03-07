@@ -16,3 +16,4 @@ Task 14 displays a line containig a specific pattern in a file
 Task 15 line counting
 Task 16
 Task 17 is for displaying lines in a file that don't contain a pattern
+Task 22 on sorting items in a file

@@ -8,3 +8,4 @@ Task 6 is on printing a specific line without using sed
 Task 7
 Task 8 is on writing into a file the output of a command. The file will be overwritten if it exists and created if it doesn't exist
 Task 9 duplicates the last line of a file
+Task 10 is on finding all .js files in the cwd and deleting them. Folders labelled .js should not be deleted.

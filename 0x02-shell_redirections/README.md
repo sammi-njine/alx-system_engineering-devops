@@ -12,3 +12,4 @@ Task 10 is on finding all .js files in the cwd and deleting them. Folders labell
 Task 11 is on counting the number of  directories and sub-directories in the current directory without taking into account the current and parent directories
 Task 12 has us display the 10 newest files in the current directory and have each file in a new line
 Task 13 is on a script that takes a list of words as input and prints only words that appear exactly once
+Task 14 displays a line containig a specific pattern in a file

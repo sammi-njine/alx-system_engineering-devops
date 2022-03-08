@@ -16,5 +16,6 @@ Task 14 displays a line containig a specific pattern in a file
 Task 15 line counting
 Task 16 displays n number of lines after matching a pattern
 Task 17 is for displaying lines in a file that don't contain a pattern
+Task 18 is on dispalying the lines in a file that start with a capital letter
 Task 21 on reversing input
 Task 22 on sorting items in a file

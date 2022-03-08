@@ -14,7 +14,7 @@ Task 12 has us display the 10 newest files in the current directory and have eac
 Task 13 is on a script that takes a list of words as input and prints only words that appear exactly once
 Task 14 displays a line containig a specific pattern in a file
 Task 15 line counting
-Task 16
+Task 16 displays n number of lines after matching a pattern
 Task 17 is for displaying lines in a file that don't contain a pattern
 Task 21 on reversing input
 Task 22 on sorting items in a file

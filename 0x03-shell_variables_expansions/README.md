@@ -6,3 +6,4 @@ Task 4 list environment variables
 Task 5
 Task 6 introduces us to creating our own local variables
 Task 7 is on creating a global variable
+Task 8 is about storing and environment variable and using the stored value in an arithmetic expression

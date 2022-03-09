@@ -7,4 +7,5 @@ Task 5
 Task 6 introduces us to creating our own local variables
 Task 7 is on creating a global variable
 Task 8 is about storing and environment variable and using the stored value in an arithmetic expression
+Task 9 takes environment variables and does arithmetic with them
 Task 12 is on brace expansion using echo and deletion of patterns in a file using grep -v

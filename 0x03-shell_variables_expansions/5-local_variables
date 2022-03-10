@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv > less.txt | set >> less.txt | cat less.txt
+set
